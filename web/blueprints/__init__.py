@@ -1,0 +1,1 @@
+from .app1 import bp as app1_bp
